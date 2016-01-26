@@ -75,4 +75,6 @@ And there are also integration adapters with other products like Cassandra (Spar
 
 Following diagram shows how these different libraries in Spark ecosystem are related to each other.
 
-![Spark Framework Ecosystem](Figures/Spark_Framework_Ecosystem)
+![Spark Framework Ecosystem](Figures/Spark_Framework_Ecosystem.png)
+
+For more information: http://www.infoq.com/articles/apache-spark-introduction
